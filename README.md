@@ -20,7 +20,7 @@ Just a simple webscraper I used to get a bunch of jobs from handshake into a csv
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/DanTheCoderMan06/handshake-webscraper-py.git
-   cd your-repository
+   cd src
 
 2. **Install required packages**:
    ```bash
